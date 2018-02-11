@@ -8,7 +8,7 @@
 
     <Button
         android:layout_width="100dp"
-        android:layout_height="wrap_content"
+        android:layout_height="40dp"
         android:text="Facebook"
         android:id="@+id/bn1"
         android:layout_alignParentTop="true"
@@ -17,7 +17,7 @@
 
     <Button
         android:layout_width="100dp"
-        android:layout_height="wrap_content"
+        android:layout_height="40dp"
         android:text="Twitter"
         android:id="@+id/bn2"
         android:layout_gravity="center_horizontal"
@@ -30,7 +30,7 @@
 
     <Button
         android:layout_width="100dp"
-        android:layout_height="wrap_content"
+        android:layout_height="40dp"
         android:text="LinkedIn"
         android:id="@+id/bn3"
         android:layout_gravity="right"
